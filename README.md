@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gerardmcintyre01.
+- 👨🏼‍🎓 I am studying Robotics and Intelligent Devices in Maynooth University, and I am currently in my Third Year.
+- 💻 I can code in Java, JavaScript, C and C++.
